@@ -87,7 +87,7 @@ UI Architecture, Performance Optimization, AI-assisted Development
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sneha7/
-* 🌐 Portfolio: [Your Portfolio Link]
+* 🌐 Portfolio: myportfolio-peach-five-45.vercel.app
 * 💻 GitHub: https://github.com/SnehaSharma7
 * 📧 Email: [sharmasneha2546@gmail.com](mailto:sharmasneha2546@gmail.com)
 
