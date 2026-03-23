@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Sneha Sharma 👋
 
+Frontend Engineer building scalable, high-performance web applications.
 
-**SnehaSharma7/SnehaSharma7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* Frontend Engineer with experience in **fintech, government, and SaaS platforms**
+* I build **dashboard-heavy systems, role-based applications, and workflow-driven UIs**
+* Focused on **performance, scalability, and clean UI architecture**
+* Passionate about creating **real-world, production-grade applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 💼 Experience
+
+**Frontend Engineer — Settlemint India Pvt. Ltd.**
+*Jan 2023 – Present*
+
+* Built production-grade applications across fintech, government, and SaaS domains
+* Developed complex dashboards with role-based access systems
+* Designed scalable and reusable component architectures
+* Improved UI performance and optimized user experience
+* Collaborated with backend and product teams for end-to-end delivery
+* Used AI-assisted tools to improve development speed and debugging
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+HTML, CSS, JavaScript, React, Next.js
+
+**Styling:**
+Tailwind CSS, Responsive Design, UI Systems
+
+**Tools:**
+Git, GitHub, Figma, APIs, Debugging
+
+**Other:**
+UI Architecture, Performance Optimization, AI-assisted Development
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Face Recognition Attendance Platform
+
+* Multi-role dashboard system (Admin, Organization, Employee)
+* Secure authentication + real-time monitoring UI
+* Built for enterprise workflow management
+
+---
+
+### 🔹 Tokenized Asset Platform
+
+* Fintech dashboards for issuer & investor portals
+* Portfolio tracking, onboarding workflows, transaction UI
+
+---
+
+### 🔹 Jharkhand Fisheries Portal
+
+* Government workflow system with role-based dashboards
+* Scheme applications and supply-chain tracking
+
+---
+
+### 🔹 Freelancer CRM
+
+* SaaS-style dashboard for managing clients, invoices, and payments
+* Clean, scalable UI architecture
+
+---
+
+### 🔹 FitNova
+
+* Animated fitness SaaS UI with dashboards and user flows
+
+---
+
+### 🔹 CivicEase
+
+* Government platform redesign focused on accessibility and usability
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sneha7/
+* 🌐 Portfolio: [Your Portfolio Link]
+* 💻 GitHub: https://github.com/SnehaSharma7
+* 📧 Email: [sharmasneha2546@gmail.com](mailto:sharmasneha2546@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building **real-world UI systems that solve complex problems** — not just static interfaces.
+
+---
