@@ -67,7 +67,7 @@ UI Architecture, Performance Optimization, AI-assisted Development
 
 ---
 
-### 🔹 Desert Devil MMA (Client Project) ⭐
+### 🔹 Fighter Portfolio (Client Project) ⭐
 
 * Designed and developed a real-world portfolio website for a professional fighter
 * Built dynamic UI to showcase profile, achievements, and media content
