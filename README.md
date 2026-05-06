@@ -2,6 +2,8 @@
 
 Frontend Engineer building scalable, high-performance web applications.
 
+---
+
 ## 🚀 About Me
 
 * Frontend Engineer with experience in **fintech, government, and SaaS platforms**
@@ -62,6 +64,25 @@ UI Architecture, Performance Optimization, AI-assisted Development
 
 * Government workflow system with role-based dashboards
 * Scheme applications and supply-chain tracking
+
+---
+
+### 🔹 Desert Devil MMA (Client Project) ⭐
+
+* Designed and developed a real-world portfolio website for a professional fighter
+* Built dynamic UI to showcase profile, achievements, and media content
+* Worked with real data and client requirements
+* Focused on visual storytelling, responsiveness, and performance
+* 🔗 https://desert-devil-mma.vercel.app/
+
+---
+
+### 🔹 AI Resume Architect
+
+* Built an AI-powered resume builder for generating and optimizing resumes
+* Designed clean UI for structured resume creation and customization
+* Focused on usability and modern UI patterns
+* 🔗 https://ai-resume-architect-sand.vercel.app/
 
 ---
 
